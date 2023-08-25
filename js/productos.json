@@ -1,0 +1,218 @@
+[
+  [ 
+    {
+        "id": 1,
+        "nombre": "Samsung Galaxy A04",
+        "precio": 71999,
+        "img": "/img/samsungGalaxyA04.webp"
+    },
+    {   
+        "id": 2,
+        "nombre": "Samsung Galaxy A14",
+        "precio": 98999,
+        "img": "/img/samsungGalaxyA14.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "Samsung Galaxy A54",
+        "precio": 266998,
+        "img": "/img/samsungGalaxyA54.webp"
+    },
+    { 
+        "id": 4,
+        "nombre": "Samsung Galaxy S22",
+        "precio": 349999,
+        "img": "/img/samsungGalaxyS22.webp"
+    },
+    {
+        "id": 5,
+        "nombre": "Samsung Galaxy Z",
+        "precio": 399999,
+        "img": "/img/samsungGalaxyZ.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "Samsung S21",
+        "precio": 236899,
+        "img": "/img/samsungS21.webp"
+    },
+    {
+        "id": 7,
+        "nombre": "Moto E22",
+        "precio": 94259,
+        "img": "/img/motoE22.webp"
+    },
+    {
+        "id": 8,
+        "nombre": "Moto Edge 30",
+        "precio": 379999,
+        "img":"/img/motoEdge30.webp"
+    },
+    {
+        "id": 9,
+        "nombre": "Moto Edge 40",
+        "precio": 249999,
+        "img": "/img/motoEdge40.webp"
+    },
+    {
+        "id": 10,
+        "nombre": "Moto G13",
+        "precio": 117599,
+        "img": "/img/motoG13.webp"
+    },
+    {
+        "id": 11,
+        "nombre": "Moto G32",
+        "precio": 119999,
+        "img": "/img/motoG32.webp"
+    },
+    {
+        "id": 12,
+        "nombre": "Moto G72",
+        "precio": 173999,
+        "img": "/img/motoG72.webp"
+    },
+    {
+        "id": 13,
+        "nombre": "Xiaomi Note 8",
+        "precio": 194679,
+        "img": "/img/xiaomiNote8.webp"
+    },
+    {
+        "id": 14,
+        "nombre": "Xiaomi Note 10",
+        "precio": 325519,
+        "img": "/img/xiaomiNote10.webp"
+    },
+    {
+        "id": 15,
+        "nombre": "Xiaomi Note 11",
+        "precio": 104899,
+        "img": "/img/xiaomiNote11.webp"
+    },
+    {
+        "id": 16,
+        "nombre": "Xiaomi Note 12S",
+        "precio": 269140,
+        "img": "/img/xiaomiNote12S.webp"
+    },
+    {
+        "id": 17,
+        "nombre": "Xiaomi Pocophone M4",
+        "precio": 329836,
+        "img": "/img/xiaomiPocophoneM4.webp"
+    },
+    {
+        "id": 18,
+        "nombre": "Xiaomi Redmi 9",
+        "precio": 159984,
+        "img": "/img/xiaomiRedmi9.webp"
+    },
+    {
+        "id": 19,
+        "nombre": "Sony Xperia X",
+        "precio": 252900,
+        "img": "/img/sonyXperiaX.webp"
+    },
+    {
+        "id": 20,
+        "nombre": "Sony Xperia Xz1",
+        "precio": 296200,
+        "img": "/img/sonyXperiaXz1.webp"
+    },
+    {
+        "id": 21,
+        "nombre": "Sony Xperia 5",
+        "precio": 480000,
+        "img": "/img/sonyXperia5.webp"
+    }
+  ],
+  [
+    {
+        "id": 22,
+        "nombre": "Smart Tv Samsung Serie 7",
+        "precio": 476229,
+        "img": "/img/smartTvSamsungSerie7.webp"
+    },
+    {
+        "id": 23,
+        "nombre": "Smart Tv Samsung Serie 6",
+        "precio": 444999,
+        "img": "/img/smartTvSamsungSerie6.webp"
+    },
+    {
+        "id": 24,
+        "nombre": "Smart Tv Samsung Serie 4",
+        "precio": 665558,
+        "img": "/img/smartTvSamsungSerie4.webp"
+    },
+    {
+        "id": 25,
+        "nombre": "Smart Tv Samsung Neo",
+        "precio": 612745,
+        "img": "/img/smartTvSamsungNeo.webp"
+    },
+    {
+        "id": 26,
+        "nombre": "Smart Tv Philips 7400",
+        "precio": 303512,
+        "img": "/img/smartTvPhilips7400.webp"
+    },
+    {
+        "id": 27,
+        "nombre": "Smart Tv Philips 6900",
+        "precio": 160899,
+        "img": "/img/smartTvPhilips6900.webp"
+    },
+    {
+        "id": 28,
+        "nombre": "Smart Tv Philips 6800",
+        "precio": 283642,
+        "img": "/img/smartTvPhilips6800.webp"
+    },
+    {
+        "id": 29,
+        "nombre": "Smart Tv Philips 6600",
+        "precio": 379879,
+        "img": "/img/smartTvPhilips6600.webp"
+    }
+  ],
+  [
+    {
+        "id": 30,
+        "nombre": "Notebook Asus Intel I5",
+        "precio": 582999,
+        "img": "/img/notebookAsusIntelI5.webp"
+    },
+    {
+        "id": 31,
+        "nombre": "Notebook Asus vivobook I3",
+        "precio": 395990,
+        "img": "/img/notebookAsusVivobookI3.webp"
+    },
+    {
+        "id": 32,
+        "nombre": "Notebook Hp Amd Ryzen 7",
+        "precio": 781222,
+        "img": "/img/notebookHpAmdRyzen7.webp"
+    },
+    {
+        "id": 33,
+        "nombre": "Notebook Ryzen 5 Levono",
+        "precio": 419999,
+        "img": "/img/notebookRyzen5Lenovo.webp"
+    },
+    {
+        "id": 34,
+        "nombre": "Notebook Samsung Galaxy Book 3",
+        "precio": 889989,
+        "img": "/img/notebookSamsungGalaxyBook3.webp"
+    },
+    {
+        "id": 35,
+        "nombre": "Notebook Ssd Ryzen",
+        "precio": 556889,
+        "img": "/img/notebookSsdRyzen.webp"
+    }
+  ]
+]
